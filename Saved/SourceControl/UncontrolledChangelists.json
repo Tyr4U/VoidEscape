@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UE5Projects/VoidEscape/Content/Maps/JetpackLevel.umap",
+				"D:/UE5Projects/VoidEscape/Content/Maps/PrototypeLevel.umap",
+				"D:/UE5Projects/VoidEscape/Content/Maps/MainMenu.umap",
+				"D:/UE5Projects/VoidEscape/Content/Blueprint/Blueprints/Widget/WBP_MainMenu.uasset",
+				"D:/UE5Projects/VoidEscape/Content/Images/JetpackGirlMainMenu.uasset",
 				"D:/UE5Projects/GetPackGirl/Content/Blueprint/Blueprints/Actors/BP_Pickup_Fuel.uasset",
 				"D:/UE5Projects/GetPackGirl/Content/Blueprint/Blueprints/Actors/BP_Pickup_FuelCell.uasset",
 				"D:/UE5Projects/GetPackGirl/Content/Blueprint/Blueprints/Actors/BP_FuelCellSpawner.uasset",
