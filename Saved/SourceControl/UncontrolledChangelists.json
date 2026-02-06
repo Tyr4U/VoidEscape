@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/GitHub/VoidEscape/Content/Textures/sm_Katana_low_Katana_Normal.uasset",
+				"D:/Documents/GitHub/VoidEscape/Content/Material/M_Weapons.uasset",
+				"D:/Documents/GitHub/VoidEscape/Content/Material/MI_Katana.uasset",
+				"D:/Documents/GitHub/VoidEscape/Content/SM/sm_Katana_low.uasset",
+				"D:/Documents/GitHub/VoidEscape/Content/Textures/sm_Katana_low_Katana_OcclusionRoughnessMetallic.uasset",
+				"D:/Documents/GitHub/VoidEscape/Content/Textures/sm_Katana_low_Katana_BaseColor.uasset",
 				"D:/UE5Projects/VoidEscape/Content/Maps/JetpackLevel.umap",
 				"D:/UE5Projects/VoidEscape/Content/Maps/PrototypeLevel.umap",
 				"D:/UE5Projects/VoidEscape/Content/Maps/MainMenu.umap",
