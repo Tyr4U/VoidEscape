@@ -1,18 +1,0 @@
-[28128:34524:0226/081627.418:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35796:34100:0226/081627.418:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[34108:23832:0226/081627.420:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18024:27364:0226/081627.445:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35796:34100:0226/081627.590:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
-[34108:23832:0226/081627.795:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
-[18024:27364:0226/081627.840:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
-[28128:34524:0226/081628.077:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28128:34524:0226/082053.946:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[28128:3104:0226/082054.436:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:3104:0226/082054.443:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:3104:0226/082054.450:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:3104:0226/082054.458:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:34524:0226/082057.737:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[28128:15408:0226/082100.212:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:15408:0226/082101.647:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:25964:0226/082108.744:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:34524:0226/082143.644:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
