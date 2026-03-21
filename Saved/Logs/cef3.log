@@ -1,18 +1,13 @@
-[28128:34524:0226/081627.418:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35796:34100:0226/081627.418:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[34108:23832:0226/081627.420:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18024:27364:0226/081627.445:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35796:34100:0226/081627.590:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
-[34108:23832:0226/081627.795:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
-[18024:27364:0226/081627.840:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
-[28128:34524:0226/081628.077:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28128:34524:0226/082053.946:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[28128:3104:0226/082054.436:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:3104:0226/082054.443:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:3104:0226/082054.450:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:3104:0226/082054.458:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:34524:0226/082057.737:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[28128:15408:0226/082100.212:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:15408:0226/082101.647:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:25964:0226/082108.744:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28128:34524:0226/082143.644:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
+[29784:32432:0316/195310.825:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29784:32432:0316/195310.895:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29784:32432:0316/195314.222:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[26516:788:0316/195319.482:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-20F6993F177C43D37A6D297D8C62C7BB will be ignored
+[25448:5060:0316/210653.232:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-A6AC09446645359F956693FD988B7EA6 will be ignored
+[10836:4308:0316/220510.562:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29784:9480:0316/220510.564:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[10836:22040:0316/220510.619:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29784:8948:0316/220510.619:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29784:28708:0316/220522.356:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[10836:4308:0316/220522.407:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29784:32432:0316/220523.073:ERROR:device_event_log_impl.cc(196)] [22:05:22.942] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[29784:32432:0316/220604.819:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
