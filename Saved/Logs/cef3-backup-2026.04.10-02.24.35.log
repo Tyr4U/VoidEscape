@@ -1,0 +1,20 @@
+[26140:11380:0409/222430.287:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26140:21944:0409/222430.314:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26140:11380:0409/222430.324:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26140:11380:0409/222431.791:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
+[26140:21944:0409/222431.873:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26140:21944:0409/222432.023:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26140:21944:0409/222432.094:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26140:23640:0409/222432.095:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26140:21944:0409/222432.097:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18580:4544:0409/222432.100:ERROR:backend_impl.cc(989)] Critical error found -8
+[18580:4544:0409/222432.100:ERROR:entry_impl.cc(1029)] No file for b2020000
+[18580:4544:0409/222432.100:WARNING:storage_block-inl.h(138)] Failed data load.
+[26140:23640:0409/222432.121:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25008:8964:0409/222433.423:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B17345DC638A672B91DCDD58B46B5C22 will be ignored
+[26140:8496:0409/222435.153:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[26140:11380:0409/222435.815:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26140:11380:0409/222435.815:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26140:11380:0409/222435.815:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26140:11380:0409/222435.815:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[26140:8496:0409/222435.818:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]

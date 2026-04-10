@@ -1,2 +1,4 @@
-2026/03/22-21:39:12.059 c64 Creating DB E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
-2026/03/22-21:39:12.067 c64 Reusing MANIFEST E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/09-22:24:30.357 2c60 Creating DB E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
+2026/04/09-22:24:30.366 2c60 Reusing MANIFEST E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/09-22:24:30.366 2c60 Recovering log #3
+2026/04/09-22:24:30.368 2c60 Reusing old log E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 

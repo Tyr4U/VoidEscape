@@ -1,10 +1,9 @@
-2026/04/09-22:24:30.346 65ac Log #6: 1 ops saved to Table #13 OK
-2026/04/09-22:24:30.347 65ac Archiving E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Site Characteristics Database/000006.log: OK
-2026/04/09-22:24:30.349 65ac Log #12: 1 ops saved to Table #14 OK
-2026/04/09-22:24:30.349 65ac Archiving E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Site Characteristics Database/000012.log: OK
-2026/04/09-22:24:30.350 65ac Table #4: 2 entries OK
-2026/04/09-22:24:30.350 65ac Table #10: 1 entries OK
-2026/04/09-22:24:30.350 65ac Table #13: 1 entries OK
-2026/04/09-22:24:30.350 65ac Table #14: 1 entries OK
-2026/04/09-22:24:30.353 65ac Archiving E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/04/09-22:24:30.357 65ac **** Repaired leveldb E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Site Characteristics Database; recovered 4 files; 665 bytes. Some data may have been lost. ****
+2026/04/09-22:24:30.365 65ac Reusing MANIFEST E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/04/09-22:24:30.365 5c58 Compacting 4@0 + 0@1 files
+2026/04/09-22:24:30.367 5c58 Generated table #17@0: 2 keys, 191 bytes
+2026/04/09-22:24:30.367 5c58 Compacted 4@0 + 0@1 files => 191 bytes
+2026/04/09-22:24:30.368 5c58 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/09-22:24:30.368 5c58 Delete type=2 #4
+2026/04/09-22:24:30.368 5c58 Delete type=2 #10
+2026/04/09-22:24:30.368 5c58 Delete type=2 #13
+2026/04/09-22:24:30.368 5c58 Delete type=2 #14
