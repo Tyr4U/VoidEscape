@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-2026/04/09-21:57:28.234 3914 Reusing MANIFEST E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
-=======
-2026/03/22-21:39:12.053 21e8 Reusing MANIFEST E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
->>>>>>> parent of c2c5980 (Adding Respawn with updated player ref to Controller)
+2026/04/09-22:24:30.365 65ac Reusing MANIFEST E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+2026/04/09-22:24:30.365 5c58 Compacting 4@0 + 0@1 files
+2026/04/09-22:24:30.367 5c58 Generated table #17@0: 2 keys, 191 bytes
+2026/04/09-22:24:30.367 5c58 Compacted 4@0 + 0@1 files => 191 bytes
+2026/04/09-22:24:30.368 5c58 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/09-22:24:30.368 5c58 Delete type=2 #4
+2026/04/09-22:24:30.368 5c58 Delete type=2 #10
+2026/04/09-22:24:30.368 5c58 Delete type=2 #13
+2026/04/09-22:24:30.368 5c58 Delete type=2 #14
