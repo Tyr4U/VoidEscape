@@ -1,17 +1,11 @@
-[24628:6704:0409/222512.970:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24628:15500:0409/222512.997:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24628:6704:0409/222513.004:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[24628:24316:0409/222514.524:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24628:24316:0409/222514.641:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24628:24316:0409/222514.723:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24628:15500:0409/222514.820:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24628:24316:0409/222514.821:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[24628:15500:0409/222514.965:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12008:29664:0409/222516.044:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2F59C867DB61BD9E6D267FF924A9E8C3 will be ignored
-[24628:29328:0409/222517.054:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[24628:6704:0409/222518.047:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[24628:6704:0409/222518.047:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[24628:6704:0409/222518.047:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[24628:6704:0409/222518.047:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[24628:29328:0409/222518.050:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[24628:6704:0409/222658.933:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[28040:11884:0816/205600.518:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28040:22908:0816/205600.563:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28040:11884:0816/205600.572:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28040:26988:0816/205605.371:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28040:26988:0816/205605.497:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28040:17276:0816/205605.563:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28040:26988:0816/205605.564:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28040:17276:0816/205605.856:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28040:26988:0816/205605.887:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2468:10392:0816/205607.335:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B65BFDFCDF675B068CC8852C7C80E3F0 will be ignored
+[28040:11884:0816/210215.731:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

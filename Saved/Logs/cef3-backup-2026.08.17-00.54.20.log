@@ -1,0 +1,28 @@
+[28104:23632:0816/204857.524:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28104:27064:0816/204857.639:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28104:23632:0816/204857.754:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28104:29656:0816/204908.095:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28104:23668:0816/204908.320:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28104:29656:0816/204908.475:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28104:23668:0816/204908.477:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28104:29656:0816/204908.596:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28104:29656:0816/204908.759:WARNING:leveldb_database.cc(141)] Unable to open E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: E:\GitHub\VoidEscape\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22456:7140:0816/204909.815:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5C72085438DE6414CEC52A74F2C06138 will be ignored
+[26080:9740:0816/204911.226:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26080:25268:0816/204911.240:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26080:25268:0816/204911.240:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26080:25268:0816/204911.241:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28104:27916:0816/204912.152:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[28104:23632:0816/204912.482:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[28104:23632:0816/204912.482:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[28104:23632:0816/204912.482:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[28104:23632:0816/204912.482:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[28104:27916:0816/204912.489:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[12196:27068:0816/204913.814:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12196:28692:0816/204913.835:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12196:28692:0816/204913.835:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12196:28692:0816/204913.836:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12196:27068:0816/204917.389:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24720:16536:0816/205123.580:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[24720:16536:0816/205123.581:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28104:23632:0816/205420.196:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

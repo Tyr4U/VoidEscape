@@ -1,0 +1,178 @@
+Top file paths:
+E:/GitHub/VoidEscape/Content/Blueprint/GameModes/GM_KikMode.uasset
+E:/GitHub/VoidEscape/Content/Blueprint/Kik/BP_Kik.uasset
+
+
+
+File: Content_Blueprint_GameModes_GM_KikMode_uasset
+Relevance Score: 1.5089
+
+
+
+asset_path: /Game/Blueprint/GameModes/GM_KikMode.GM_KikMode
+
+referencers:
+  [
+  "/Game/Blueprint/Blueprints/Actors/BP_ScoreRing_Base",
+  "/Game/Blueprint/Blueprints/Actors/Pickups/BP_Pickup_FuelCell",
+  "/Game/Blueprint/Blueprints/Actors/Pickups/BP_Pickup_FuelCell_Floating",
+  "/Game/Maps/PrototypeLevel",
+  "/Game/Blueprint/Blueprints/Widget/WBP_HUD",
+  "/Game/Blueprint/Kik/BP_Kik",
+  "/Game/Maps/MainMenu",
+  "/Game/Maps/JetpackLevel"
+]
+
+dependencies:
+  [
+  "/Engine/EditorBlueprintResources/StandardMacros",
+  "/Game/Blueprint/Player/BP_Controller_Kix",
+  "/Game/Blueprint/Blueprints/Widget/WBP_HUD",
+  "/Game/Blueprint/Kik/BP_Kik"
+]
+
+content: asset path:
+/Game/Blueprint/GameModes/GM_KikMode.GM_KikMode
+blueprint info:
+GM_KikMode
+/Game/Blueprint/GameModes/GM_KikMode.GM_KikMode
+GM_KikMode_C
+/Game/Blueprint/GameModes/GM_KikMode
+GameModeBase
+
+
+variable info:
+
+Variables:
+- PlayerScore (int) = 1631761296
+- HUD (object) = No default value
+- SpawnLocation (struct) = No default value
+- OnDeath? (mcdelegate) = No default value
+
+function info:
+
+Functions:
+UserConstructionScript
+IncrementScore
+
+component info:
+
+Components:
+- DefaultSceneRoot (SceneComponent)
+
+
+
+
+
+
+
+
+
+File: Content_Blueprint_Kik_BP_Kik_uasset
+Relevance Score: 1.4561
+
+
+
+asset_path: /Game/Blueprint/Kik/BP_Kik.BP_Kik
+
+referencers:
+  [
+  "/Game/Blueprint/GameModes/GM_KikMode",
+  "/Game/Blueprint/Blueprints/Actors/BP_ForceShield",
+  "/Game/Blueprint/Blueprints/Actors/BP_JetFuelStation",
+  "/Game/Drone/Blueprints/BP_Bot",
+  "/Game/Blueprint/Blueprints/Actors/BP_WinBox",
+  "/Game/Drop_Pods/Blueprints/DP3_BP",
+  "/Game/Blueprint/Player/BP_Controller_Kix",
+  "/Game/Blueprint/Blueprints/Widget/WBP_HUD",
+  "/Game/Blueprint/Blueprints/Actors/BP_Interact"
+]
+
+dependencies:
+  [
+  "/Script/Niagara",
+  "/Game/Blueprint/GameModes/GM_KikMode",
+  "/Script/NavigationSystem",
+  "/Engine/EditorBlueprintResources/StandardMacros",
+  "/Script/UMG",
+  "/Game/Assets/Kix/SKM_Kix",
+  "/Game/Assets/Effects/Thrusters/NS_JetpackThruster",
+  "/Game/Blueprint/Blueprints/Widget/WBP_HUD",
+  "/Game/Blueprint/Blueprints/Components/BPC_Health",
+  "/Game/Blueprint/Blueprints/Widget/WBP_EndGame",
+  "/Game/Blueprint/Blueprints/Interfaces/BPI_WinLose",
+  "/Game/Assets/Sounds/Thrusters/MS_ThrusterStop",
+  "/Game/Assets/Sounds/Thrusters/MS_ThrusterStart",
+  "/Game/Assets/Sounds/Thrusters/MS_ThrusterLoop",
+  "/Game/Assets/Kix/Animations/ABP_Kix",
+  "/Game/Blueprint/Blueprints/Interfaces/BPI_Interact",
+  "/Game/Blueprint/Blueprints/Interfaces/BPI_Jetpack",
+  "/Game/Blueprint/Player/BP_KixPlayerController_Base",
+  "/Script/EnhancedInput",
+  "/Game/Input/IA_Movement",
+  "/Script/InputBlueprintNodes",
+  "/Game/Input/IA_Interact",
+  "/Game/Input/IA_Sprint"
+]
+
+content: asset path:
+/Game/Blueprint/Kik/BP_Kik.BP_Kik
+blueprint info:
+BP_Kik
+/Game/Blueprint/Kik/BP_Kik.BP_Kik
+BP_Kik_C
+/Game/Blueprint/Kik/BP_Kik
+Character
+BPI_Jetpack_C, BPI_WinLose_C, 
+
+variable info:
+
+Variables:
+- HUD (object) = No default value
+- LoopingThrusterSound (object) = No default value
+- CurrentFuel (real) = 0.250000
+- MaxJetFuel (real) = 1.000000
+- JetFuelDrainRate (real) = 0.100000
+- EndGameWidget (softclass) = No default value
+- WinText (text) = No default value
+- LoseText (text) = No default value
+- As BP Kix Player Controller Base (object) = No default value
+- PlayerStartPosition (struct) = No default value
+- GameModeRef (object) = No default value
+- OnPlayerDeath (mcdelegate) = No default value
+
+function info:
+
+Functions:
+UserConstructionScript
+Referances
+StartThrusterSound
+StopThrusterSound
+ActivateThrusterVisuals
+Jet Fuel Drain per Frame
+FuelPercent
+HandleRefillFuel
+GetCenterSizeBox
+HandleReSpawn
+
+component info:
+
+Components:
+- SpringArm (SpringArmComponent)
+    TargetArmLength = 500.000000
+    bUsePawnControlRotation = true
+  - Camera (CameraComponent)
+- Camera (CameraComponent)
+- BPC_Health (BPC_Health_C)
+- Thruster_L (NiagaraComponent)
+    Asset = /Game/Assets/Effects/Thrusters/NS_JetpackThruster.NS_JetpackThruster
+    bAutoActivate = false
+- Thruster_R (NiagaraComponent)
+    Asset = /Game/Assets/Effects/Thrusters/NS_JetpackThruster.NS_JetpackThruster
+    bAutoActivate = false
+
+
+
+
+
+

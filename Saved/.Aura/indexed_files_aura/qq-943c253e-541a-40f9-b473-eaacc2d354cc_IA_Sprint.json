@@ -1,0 +1,1 @@
+{"file_path": "Content/Input/IA_Sprint.uasset", "file_id": "Content_Input_IA_Sprint_uasset", "asset_path": "/Game/Input/IA_Sprint.IA_Sprint", "doc_id": "qq-943c253e-541a-40f9-b473-eaacc2d354cc", "referencers": ["/Game/Blueprint/Kik/BP_Kik", "/Game/Input/IMC_KikMovement"], "dependencies": ["/Script/EnhancedInput"], "content": "asset path:\n/Game/Input/IA_Sprint.IA_Sprint\n"}

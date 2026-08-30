@@ -1,0 +1,1 @@
+{"file_path": "Content/Input/IA_Look.uasset", "file_id": "Content_Input_IA_Look_uasset", "asset_path": "/Game/Input/IA_Look.IA_Look", "doc_id": "qq-c9a484b4-f3a9-4e06-848c-334722341b6d", "referencers": ["/Game/Blueprint/Player/BP_Controller_Kix", "/Game/Input/IMC_KikMovement"], "dependencies": ["/Script/EnhancedInput"], "content": "asset path:\n/Game/Input/IA_Look.IA_Look\n"}
